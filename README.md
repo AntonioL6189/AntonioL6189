@@ -1,11 +1,20 @@
-### Hi there, My name is Antonio L. Im new to python and other coding languages 👋
+👋 Hello, I'm Antonio L., a newcomer to Python and other coding languages.
 
-- 🔭 I’m currently working on developing a automation system using python
-- 🌱 I’m currently learning Binary trees and Nodes
-- 👯 I’m looking to collaborate on developing a game using python
-- 🤔 I’m looking for help with learning more advanced python coding 
-- 💬 Ask me about Places I have visited 
-- 📫 How to reach me: Tmac_618@yahoo.com
-- 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I love shiba inu's
+🔭 Currently, I'm focused on developing an automation system using Python.
 
+🌱 I'm diving into AI automation and excel to deepen my understanding.
+
+👯 I'm enthusiastic about collaborating on a Python game development project.
+
+🤔 Seeking guidance to advance my Python coding skills.
+
+💬 Feel free to ask me about the places I've visited.
+
+📫 You can reach me at tmac_618@yahoo.com or 
+       www.linkedin.com/in/antonio-legrier-ba4437227
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I have a deep love for Shiba Inu dogs! and im a huge DBZ fan
+
+--- 
